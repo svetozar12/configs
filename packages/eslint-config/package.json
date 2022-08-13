@@ -1,5 +1,5 @@
 {
-  "name": "@svetozar12svetozar12svetozar12svetozar12svetozar12/eslint-config",
+  "name": "@svetozar12/eslint-config",
   "version": "1.0.4",
   "description": "Esling config",
   "author": "svetozar12 <zaauna@abv.bg>",
@@ -13,5 +13,5 @@
   "devDependencies": {
     "eslint": "^8.21.0"
   },
-  "gitHead": "2a2c22b64b2b428d9cc994bc14f9707aac5fb7d2"
+  "gitHead": "eedb6d4ff2867f6acae1894015c0827bc094d2d0"
 }
