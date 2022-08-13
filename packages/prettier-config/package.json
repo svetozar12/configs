@@ -1,0 +1,12 @@
+{
+  "name": "@svetozar12/prettier-config",
+  "version": "0.0.0",
+  "description": "Prettier config",
+  "keywords": [],
+  "author": "svetozar12 <zaauna@abv.bg>",
+  "license": "ISC",
+  "main": "index.js",
+  "publishConfig": {
+    "registry": "http://registry.npmjs.org/"
+  }
+}

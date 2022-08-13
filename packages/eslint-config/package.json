@@ -1,0 +1,15 @@
+{
+  "name": "@svetozar12/eslint-config",
+  "version": "0.0.0",
+  "description": "Esling config",
+  "author": "svetozar12 <zaauna@abv.bg>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "index.js",
+  "publishConfig": {
+    "registry": "http://registry.npmjs.org/"
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  }
+}
