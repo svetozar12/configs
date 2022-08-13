@@ -7,10 +7,11 @@
   "license": "ISC",
   "main": "index.js",
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/",
+    "registry": "https://registry.npmjs.com/",
     "access": "public"
   },
   "devDependencies": {
     "eslint": "^8.21.0"
-  }
+  },
+  "gitHead": "2a2c22b64b2b428d9cc994bc14f9707aac5fb7d2"
 }
