@@ -52,4 +52,12 @@ module.exports = {
       },
     },
   },
+  overrides: [
+    {
+      files: ["*.ts", "*.js", "*.jsx", "*.tsx"],
+      rules: {
+        "no-undef": "off",
+      },
+    },
+  ],
 };
